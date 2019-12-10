@@ -9,14 +9,7 @@ import UGroup from "./components/Work/UGroup.js"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>peyton doyle's portfolio</h1>
-        <p>
-          coming soon.
-        </p>
-      </header>
-    </div>
+    <Homepage/>
   );
 }
 

@@ -33,6 +33,11 @@ body {
   font-style: normal;
 }
 
+h1 {
+  margin: 0vw;
+  font-size: 14vw;
+}
+
 /* Homepage styling */
 .sparkles {
   width: 13vw;

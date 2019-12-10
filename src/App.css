@@ -35,12 +35,17 @@ body {
 
 h1 {
   margin: 0vw;
-  font-size: 14vw;
+  font-size: 12vw;
 }
 
 /* Homepage styling */
 .sparkles {
   width: 13vw;
+}
+
+.subhead {
+  font-size: 4vw;
+  color: #A69087;
 }
 
 

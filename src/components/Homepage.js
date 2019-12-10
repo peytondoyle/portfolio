@@ -9,7 +9,7 @@ function App() {
       <img class="sparkles" src="https://i.imgur.com/l28ys4z.png"></img>
       <h1>Peyton doyle</h1>
       <span class="subhead">
-        coming soon.
+        portfolio coming soon.
       </span>
     </header>
   );

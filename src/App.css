@@ -30,9 +30,6 @@ body {
   margin: 0vw;
 }
 
-@media screen and (min-width: 415px){
-  .site-container {
-
 h1 {
   margin: 0vw;
   font-size: 12vw;

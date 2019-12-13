@@ -21,7 +21,7 @@ function App() {
          <div class="columnR">
            <a href="">LinkedIn</a>
            <br></br>
-           <a href="">Github</a>
+           <a href="https://github.com/p6doyle">Github</a>
          </div>
       </div>
     </header>

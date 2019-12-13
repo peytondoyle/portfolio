@@ -19,7 +19,7 @@ function App() {
             <a href="tel:434-941-0738">Phone</a>
           </div>
          <div class="columnR">
-           <a href="">LinkedIn</a>
+           <a href="https://www.linkedin.com/in/peytondoyle/">LinkedIn</a>
            <br></br>
            <a href="https://github.com/p6doyle">Github</a>
          </div>

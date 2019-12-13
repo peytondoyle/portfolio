@@ -19,9 +19,9 @@ function App() {
             <a href="tel:434-941-0738">Phone</a>
           </div>
          <div class="columnR">
-           <a href="mailto:p6doyle@gmail.com">Email</a>
+           <a href="">LinkedIn</a>
            <br></br>
-           <a href="tel:434-941-0738">Phone</a>
+           <a href="">Github</a>
          </div>
       </div>
     </header>

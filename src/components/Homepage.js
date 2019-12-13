@@ -11,6 +11,10 @@ function App() {
       <span class="subhead">
         portfolio coming soon.
       </span>
+      <div class="container">
+         <div class="column">qwerty</div>
+         <div class="column">asdf</div>
+      </div>
     </header>
   );
 }

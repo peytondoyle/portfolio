@@ -45,4 +45,16 @@ h1 {
   color: #A69087;
 }
 
+.column {
+  width: 10vw;
+  border: 1px green solid;
+  margin: 10px;
+  display: inline-block;
+  text-align: left;
+}
+.container {
+  margin:auto;
+  text-align: center;
+}
+
 

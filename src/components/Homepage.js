@@ -13,7 +13,7 @@ function App() {
       </span>
       <div class="columnContainer">
         <h2>Contact</h2>
-         <div class="columnL"><a href="mailto:p6doyle@gmail.com">Email</a><br></br><a href="mailto:p6doyle@gmail.com">Email</a></div>
+         <div class="columnL"><a href="mailto:p6doyle@gmail.com">Email</a><br></br><a href="tel:434-941-0738">Phone</a></div>
          <div class="columnR">asdf</div>
       </div>
     </header>

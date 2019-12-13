@@ -6,6 +6,11 @@
   height: 40vmin;
 }
 
+a {
+  color: #A69087;
+  text-decoration: none;
+}
+
 .App-header {
   padding-top:5vw;
   display: flex;

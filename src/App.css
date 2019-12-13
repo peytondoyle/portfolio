@@ -45,16 +45,32 @@ h1 {
   color: #A69087;
 }
 
-.column {
+.columnL {
   width: 10vw;
-  border: 1px green solid;
-  margin: 10px;
+  margin-right: 2vw;
+  display: inline-block;
+  text-align: right;
+  font-size: 2.5vw;
+  color: #A69087;
+}
+
+.columnR {
+  width: 10vw;
+  margin-left: 2vw;
   display: inline-block;
   text-align: left;
+  font-size: 2.5vw;
+  color: #A69087;
 }
-.container {
-  margin:auto;
+
+.columnContainer {
+  margin-top: 2vw;
   text-align: center;
+}
+
+h2 {
+  margin: 0vw;
+  font-size: 3.5vw;
 }
 
 

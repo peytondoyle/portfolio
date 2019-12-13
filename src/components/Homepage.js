@@ -11,9 +11,10 @@ function App() {
       <span class="subhead">
         portfolio coming soon.
       </span>
-      <div class="container">
-         <div class="column">qwerty</div>
-         <div class="column">asdf</div>
+      <div class="columnContainer">
+        <h2>Contact</h2>
+         <div class="columnL"><a href="mailto:p6doyle@gmail.com">Email</a></div>
+         <div class="columnR">asdf</div>
       </div>
     </header>
   );
